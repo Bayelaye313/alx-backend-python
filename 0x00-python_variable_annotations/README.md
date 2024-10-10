@@ -5,14 +5,14 @@ For this project, we expect you to look at this concept:
 (Advanced Python)
 
 ## Learning Objectives
-## General
+### General
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-Type annotations in Python 3
-How you can use type annotations to specify function signatures and variable types
+- Type annotations in Python 3
+- How you can use type annotations to specify function signatures and variable types
 Duck typing
-How to validate your code with mypy
-Requirements
+- How to validate your code with mypy
+## Requirements
 General
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7)
