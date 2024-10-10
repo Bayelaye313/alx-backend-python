@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+
+'''
+    Basic annotations for variables.
+'''
+
 def plus(num1: float, num2: float) -> float:
     """
         Adds two numbers together.
