@@ -4,19 +4,19 @@
     Basic annotations for variables.
 '''
 
-def plus(num1: float, num2: float) -> float:
+def add(a: float, b: float) -> float:
     """
         Adds two numbers together.
 
         Args:
-            num1 (float): The first number.
-            num2 (float): The second number.
+            a (float): The first number.
+            b (float): The second number.
 
         Returns:
-            float: The sum of num1 and num2.
+            float: The sum of a and b.
 
         Example:
             >>> plus(3.5, 2.5)
             6.0
     """
-    return num1 + num2
+    return a + b
